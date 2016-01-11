@@ -1,0 +1,20 @@
+{
+  "name": "knockout-file-bindings",
+  "version": "0.1.0",
+  "description": "knockout-file-bindings ======================",
+  "main": "knockout-file-bindings.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmbankester/knockout-file-bindings.git"
+  },
+  "author": "Christian Bankester <cbankester@immense.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmbankester/knockout-file-bindings/issues"
+  },
+  "homepage": "https://github.com/cmbankester/knockout-file-bindings#readme"
+}
